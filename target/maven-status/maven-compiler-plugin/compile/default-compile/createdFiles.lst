@@ -1,0 +1,4 @@
+com\exemplo\aop\aspecto\AspectoLogging.class
+com\exemplo\aop\servico\ServicoBancario.class
+com\exemplo\aop\Application.class
+com\exemplo\aop\servico\ServicoBancarioSemAOP.class
